@@ -1,0 +1,6 @@
+# Python-related files
+__pycache__
+*.egg-info
+
+# Data
+*.h5
